@@ -2,6 +2,8 @@
 
 A dynamic weather application built with React, integrated with the OpenWeatherMap API, and enhanced with smooth animations using GSAP. This app provides real-time weather updates based on city names, with interactive and visually engaging animations.
 
+deploy-link => https://curious-gnome-8a56aa.netlify.app/
+
 ## Features
 
 - **Real-time weather updates**: Fetch weather data for any city using the OpenWeatherMap API.

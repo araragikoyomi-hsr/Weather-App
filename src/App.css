@@ -113,17 +113,6 @@ body, html {
     z-index: -1;
 }
 
-.content {
-    position: relative;
-    color: white;
-    text-align: center;
-    padding: 50px;
-    z-index: 1; 
-}
-
-.content h1 {
-    font-size: 3rem;
-}
 
 p {
     font-size: 1.5rem;
